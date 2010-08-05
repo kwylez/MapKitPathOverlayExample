@@ -1,0 +1,272 @@
+TMapKitPathOverlayExample
+v7
+r0
+t296493253.403448
+cCheck dependencies
+cProcessInfoPlistFile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/Info.plist" MapKitPathOverlayExample-Info.plist
+cCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib"
+cCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib"
+cProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch.gch MapKitPathOverlayExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/main.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleAppDelegate.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleViewController.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample" normal i386
+cGenerateDSYMFile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app.dSYM" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample"
+cTouch "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BF3E7C20000000000000132
+t1274275778
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BEA386B000000000027C7D0
+t1273641067
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BEA511C0000000000068E90
+t1273647388
+s429712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BEA38EA000000000029D430
+t1273641194
+s2741296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BEA38DC0000000000001466
+t1273641180
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004BEA534000000000000002F9
+t1273647936
+s761
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004BEA53830000000000161370
+t1273648003
+s1446768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BEA514400000000000009CD
+t1273647428
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BEA52440000000001D44C30
+t1273647684
+s30690352
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.h
+c000000004BFBE763000000000000023C
+t1274799971
+s572
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m
+c000000004BFBE7630000000000000AD7
+t1274799971
+s2775
+i"MapKitPathOverlayExampleAppDelegate.h"
+i"MapKitPathOverlayExampleViewController.h"
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.h
+c000000004BFBE8DE0000000000000183
+t1274800350
+s387
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m
+c000000004BFBE9190000000000000291
+t1274800409
+s657
+i"MapKitPathOverlayExampleViewController.h"
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib
+c000000004BFBE7630000000000004EF5
+t1274799971
+s20213
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib
+c000000004BFBE93C0000000000004290
+t1274800444
+s17040
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch
+c000000004BFBE76300000000000000D9
+t1274799971
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app
+t1274800453
+s238
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app.dSYM
+t1274800453
+s102
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/Info.plist
+t1274800450
+s665
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MainWindow.nib
+t1274800451
+s1157
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample
+t1274800453
+s18744
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExampleViewController.nib
+t1274800451
+s1183
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/PkgInfo
+t1274800450
+s8
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExample.LinkFileList
+c000000004BFBE9420000000000000245
+t1274800450
+s581
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleAppDelegate.o
+t1274800452
+s49556
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleViewController.o
+t1274800452
+s38112
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/main.o
+t1274800452
+s6336
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m
+c000000004BFBE7630000000000000171
+t1274799971
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch.gch
+t1274800452
+s15199248
+
+NMapKitPathOverlayExample-Info.plist
+c000000004BFBE763000000000000038D
+t1274799971
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296493250#296493250#0(0"0(0#1#0"7311118355130306560#0"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleAppDelegate.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296493252.707124
+e296493252.877082
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleAppDelegate.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m296493252#296493252#0(0"0(0#0#100"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m8613721920#2509"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources/i386" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleAppDelegate.o"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleViewController.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296493252.861019
+e296493252.935308
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleViewController.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m296493252#296493252#0(0"0(0#0#103"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m8608730848#2515"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources/i386" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExampleViewController.o"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/main.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296493252.705461
+e296493252.860914
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/main.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m296493252#296493252#0(0"0(0#0#61"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m8607953024#2439"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources/i386" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib"
+s296493250.824634
+e296493251.321114
+r1
+xCompileXIB
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296493250#296493251#0(0"0(0#0#69"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib8614688512#641"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MainWindow.nib" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib"
+s296493250.826838
+e296493251.541726
+r1
+xCompileXIB
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib
+lSLF07#2@53"CompileXIB MapKitPathOverlayExampleViewController.xib296493250#296493251#0(0"0(0#0#97"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib8614437376#697"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExampleViewController.nib" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app.dSYM" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample"
+s296493253.304383
+e296493253.377008
+r1
+xGenerateDSYMFile
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app.dSYM
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample
+lSLF07#2@160"GenerateDSYMFile build/Debug-iphonesimulator/MapKitPathOverlayExample.app.dSYM build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample296493253#296493253#0(0"0(0#0#136"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample8616235968#488"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app.dSYM"0#
+
+CLd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample" normal i386
+s296493252.935407
+e296493253.304281
+r1
+xLd
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample
+xnormal
+xi386
+lSLF07#2@141"Link /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample296493252#296493253#0(0"0(0#0#0"8608115328#1117"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator" -filelist "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/Objects-normal/i386/MapKitPathOverlayExample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/MapKitPathOverlayExample"0#
+
+CProcessInfoPlistFile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/Info.plist" MapKitPathOverlayExample-Info.plist
+s296493250.794895
+e296493250.824511
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/Info.plist
+xMapKitPathOverlayExample-Info.plist
+lSLF07#2@43"Process MapKitPathOverlayExample-Info.plist296493250#296493250#0(0"0(0#0#90"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample-Info.plist8666466517282612224#584"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapKitPathOverlayExample-Info.plist -genpkginfo "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app/Info.plist"0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch.gch MapKitPathOverlayExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296493251.541917
+e296493252.705055
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch.gch
+xMapKitPathOverlayExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile MapKitPathOverlayExample_Prefix.pch296493251#296493252#0(0"0(0#0#90"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch8613764576#2296"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources/i386" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphonesimulator/MapKitPathOverlayExample.build/DerivedSources" -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch" -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-hdjhnuqtoywmmjbajorawooepxkw/MapKitPathOverlayExample_Prefix.pch.gch0#
+
+CTouch "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app"
+s296493253.377102
+e296493253.403384
+r1
+xTouch
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app
+lSLF07#2@117"Touch /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app296493253#296493253#0(0"0(0#0#0"8616271776#331"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphonesimulator/MapKitPathOverlayExample.app"0#
+

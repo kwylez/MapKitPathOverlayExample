@@ -1,0 +1,787 @@
+TMapKitPathOverlayExample
+v7
+r0
+t296514901.008800
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MapKitPathOverlayExample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/Info.plist" MapKitPathOverlayExample-Info.plist
+cCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib"
+cCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib"
+cProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch.gch MapKitPathOverlayExample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch.gch MapKitPathOverlayExample_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/main.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleAppDelegate.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleViewController.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/Annotation.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/main.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleAppDelegate.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleViewController.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/Annotation.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/087B0383-DB8E-40A3-BBCB-DD78DB9AD4FC.mobileprovision" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/embedded.mobileprovision"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample.xcent"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004BEBA19E0000000000000110
+t1273733534
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BD905DB00000000000001A7
+t1272514011
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BD905DB00000000000001E5
+t1272514011
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BEA3D0F000000000034A850
+t1273642255
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BEA510000000000000C1D40
+t1273647360
+s793920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BEA50F400000000000001C8
+t1273647348
+s456
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BEA43F000000000003E1D30
+t1273644016
+s4070704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BEA43CC0000000000001466
+t1273643980
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKPolyline.h
+c000000004BEA55FD00000000000001C0
+t1273648637
+s448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004BEA55FD00000000000002F9
+t1273648637
+s761
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004BEA56320000000000268030
+t1273648690
+s2523184
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BEA51B400000000000009CD
+t1273647540
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BEA52CC0000000002D51C40
+t1273647820
+s47520832
+
+N/Users/cwiles/Library/MobileDevice/Provisioning Profiles/087B0383-DB8E-40A3-BBCB-DD78DB9AD4FC.mobileprovision
+c000000004BF3EDF50000000000001CBA
+t1274277365
+s7354
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.h
+c000000004BFBF03A000000000000028E
+t1274802234
+s654
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m
+c000000004BFBF0540000000000000265
+t1274802260
+s613
+i"Annotation.h"
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.h
+c000000004BFBE763000000000000023C
+t1274799971
+s572
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m
+c000000004BFBE7630000000000000AD7
+t1274799971
+s2775
+i"MapKitPathOverlayExampleAppDelegate.h"
+i"MapKitPathOverlayExampleViewController.h"
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.h
+c000000004BFC339E00000000000002F2
+t1274819486
+s754
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+i"Annotation.h"
+i<MapKit/MKPolyline.h>
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m
+c000000004BFC3D800000000000000CC2
+t1274822016
+s3266
+i"MapKitPathOverlayExampleViewController.h"
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib
+c000000004BFBE7630000000000004EF5
+t1274799971
+s20213
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib
+c000000004BFC340100000000000043D0
+t1274819585
+s17360
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch
+c000000004BFBE76300000000000000D9
+t1274799971
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app
+t2
+s0
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app.dSYM
+t2
+s0
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/Info.plist
+t1274822097
+s785
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/MainWindow.nib
+t1274822097
+s1157
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/MapKitPathOverlayExample
+t2
+s0
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/MapKitPathOverlayExampleViewController.nib
+t1274822097
+s1224
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/PkgInfo
+t1274822097
+s8
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/ResourceRules.plist
+t1274822097
+s485
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/embedded.mobileprovision
+t1274822100
+s7354
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample.xcent
+t1274822101
+s454
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/Annotation.o
+t1274822100
+s13552
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExample
+t2
+s0
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExample.LinkFileList
+c000000004BFC3DD100000000000002DF
+t1274822097
+s735
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleAppDelegate.o
+t1274822100
+s49184
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleViewController.o
+t2
+s0
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/main.o
+t1274822100
+s6472
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/Annotation.o
+t1274822100
+s13432
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExample
+t2
+s0
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExample.LinkFileList
+c000000004BFC3DD100000000000002DF
+t1274822097
+s735
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleAppDelegate.o
+t1274822100
+s49104
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleViewController.o
+t2
+s0
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/main.o
+t1274822100
+s6456
+
+N/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m
+c000000004BFBE7630000000000000171
+t1274799971
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch.gch
+t1274822100
+s9823792
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch.gch
+t1274822100
+s10290736
+
+NMapKitPathOverlayExample-Info.plist
+c000000004BFBE763000000000000038D
+t1274799971
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296514897#296514897#0(0"0(0#1#0"7311118355130306560#0"0#
+
+CCodeSign "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app"
+r0
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/Annotation.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296514900.731789
+e296514900.817435
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/Annotation.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m296514900#296514900#0(0"0(0#0#75"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m8598886528#2282"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv6" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/Annotation.o"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleAppDelegate.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296514900.568700
+e296514900.731690
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleAppDelegate.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m296514900#296514900#0(0"0(0#0#100"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m8599134272#2332"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv6" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleAppDelegate.o"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleViewController.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296514900.712343
+e296514900.796684
+r0
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleViewController.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m: In function '-[MapKitPathOverlayExampleViewController mapView:viewForOverlay:]':
+o/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m:128: error: expected identifier before '}' token
+o{standard input}:1080:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L86"
+o{standard input}:1080:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1079:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L85"
+o{standard input}:1079:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:1078:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L84"
+o{standard input}:1078:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:1077:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L83"
+o{standard input}:1077:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:1074:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L82"
+o{standard input}:1074:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:930:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L76"
+o{standard input}:930:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:929:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L75"
+o{standard input}:929:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:928:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L74"
+o{standard input}:928:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:872:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L69"
+o{standard input}:872:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:871:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L68"
+o{standard input}:871:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:870:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L67"
+o{standard input}:870:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:806:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L61"
+o{standard input}:806:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:805:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L60"
+o{standard input}:805:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:804:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L59"
+o{standard input}:804:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:803:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L58"
+o{standard input}:803:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:802:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L57"
+o{standard input}:802:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:801:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L56"
+o{standard input}:801:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+o{standard input}:800:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L55"
+o{standard input}:800:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:799:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L54"
+o{standard input}:799:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:798:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L53"
+o{standard input}:798:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:797:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L52"
+o{standard input}:797:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:796:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L51"
+o{standard input}:796:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:791:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L50"
+o{standard input}:791:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:790:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L49"
+o{standard input}:790:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:789:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L48"
+o{standard input}:789:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:788:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L47"
+o{standard input}:788:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:787:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L46"
+o{standard input}:787:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:785:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L44"
+o{standard input}:785:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:784:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L43"
+o{standard input}:784:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:782:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L41"
+o{standard input}:782:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:781:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L40"
+o{standard input}:781:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:780:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L39"
+o{standard input}:780:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:779:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L38"
+o{standard input}:779:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:778:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L37"
+o{standard input}:778:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:777:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L36"
+o{standard input}:777:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:776:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L35"
+o{standard input}:776:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:775:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L34"
+o{standard input}:775:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:774:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L33"
+o{standard input}:774:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:773:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L32"
+o{standard input}:773:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:768:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L31"
+o{standard input}:768:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:767:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L30"
+o{standard input}:767:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:766:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L29"
+o{standard input}:766:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:764:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L27"
+o{standard input}:764:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:763:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L26"
+o{standard input}:763:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:761:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L24"
+o{standard input}:761:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:760:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L23"
+o{standard input}:760:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:759:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L22"
+o{standard input}:759:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:758:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L21"
+o{standard input}:758:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:757:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L20"
+o{standard input}:757:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:756:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L19"
+o{standard input}:756:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:755:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L18"
+o{standard input}:755:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:754:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L17"
+o{standard input}:754:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:753:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L16"
+o{standard input}:753:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:752:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L15"
+o{standard input}:752:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:747:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L14"
+o{standard input}:747:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:746:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L13"
+o{standard input}:746:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:745:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L12"
+o{standard input}:745:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:122:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L7"
+o{standard input}:122:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:121:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L6"
+o{standard input}:121:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:120:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L5"
+o{standard input}:120:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:119:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" minus "L4"
+o{standard input}:119:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"
+o{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:117:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" minus "L2"
+o{standard input}:117:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+lSLF07#2@111"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m296514900#296514900#0(16585"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m: In function '-[MapKitPathOverlayExampleViewController mapView:viewForOverlay:]':/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m:128: error: expected identifier before '}' token{standard input}:1080:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L86"{standard input}:1080:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1079:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L85"{standard input}:1079:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:1078:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L84"{standard input}:1078:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:1077:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L83"{standard input}:1077:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:1074:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L82"{standard input}:1074:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:930:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L76"{standard input}:930:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:929:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L75"{standard input}:929:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:928:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L74"{standard input}:928:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:872:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L69"{standard input}:872:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:871:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L68"{standard input}:871:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:870:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L67"{standard input}:870:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:806:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L61"{standard input}:806:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:805:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L60"{standard input}:805:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:804:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L59"{standard input}:804:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:803:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L58"{standard input}:803:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:802:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L57"{standard input}:802:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:801:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L56"{standard input}:801:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression{standard input}:800:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L55"{standard input}:800:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:799:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L54"{standard input}:799:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:798:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L53"{standard input}:798:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:797:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L52"{standard input}:797:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:796:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L51"{standard input}:796:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:791:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L50"{standard input}:791:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:790:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L49"{standard input}:790:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:789:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L48"{standard input}:789:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:788:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L47"{standard input}:788:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:787:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L46"{standard input}:787:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:785:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L44"{standard input}:785:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:784:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L43"{standard input}:784:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:782:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L41"{standard input}:782:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:781:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L40"{standard input}:781:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:780:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L39"{standard input}:780:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:779:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L38"{standard input}:779:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:778:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L37"{standard input}:778:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:777:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L36"{standard input}:777:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:776:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L35"{standard input}:776:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:775:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L34"{standard input}:775:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:774:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L33"{standard input}:774:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:773:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L32"{standard input}:773:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:768:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L31"{standard input}:768:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:767:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L30"{standard input}:767:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:766:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L29"{standard input}:766:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:764:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L27"{standard input}:764:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:763:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L26"{standard input}:763:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:761:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L24"{standard input}:761:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:760:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L23"{standard input}:760:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:759:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L22"{standard input}:759:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:758:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L21"{standard input}:758:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:757:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L20"{standard input}:757:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:756:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L19"{standard input}:756:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:755:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L18"{standard input}:755:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:754:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L17"{standard input}:754:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:753:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L16"{standard input}:753:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:752:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L15"{standard input}:752:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:747:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L14"{standard input}:747:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:746:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L13"{standard input}:746:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:745:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L12"{standard input}:745:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:122:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L7"{standard input}:122:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:121:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L6"{standard input}:121:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:120:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L5"{standard input}:120:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:119:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" minus "L4"{standard input}:119:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:117:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" minus "L2"{standard input}:117:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_231(4@36"Expected identifier before '}' token296514900#186#153#0(6@103"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m296514816#128#0#128#0#19"expected * before *0(0#0#103"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m8602579328#2338"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv6" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExampleViewController.o"1#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/main.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296514900.567275
+e296514900.712245
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/main.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m296514900#296514900#0(0"0(0#0#61"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m8603726688#2262"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv6" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/Annotation.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296514900.914831
+e296514900.986066
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/Annotation.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m296514900#296514900#0(0"0(0#0#75"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m8604550496#2282"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv7" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/Annotation.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/Annotation.o"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleAppDelegate.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296514900.817560
+e296514900.914724
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleAppDelegate.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m296514900#296514900#0(0"0(0#0#100"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m8603778176#2332"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv7" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleAppDelegate.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleAppDelegate.o"0#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleViewController.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296514900.874415
+e296514900.964776
+r0
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleViewController.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m: In function '-[MapKitPathOverlayExampleViewController mapView:viewForOverlay:]':
+o/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m:128: error: expected identifier before '}' token
+o{standard input}:966:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L85"
+o{standard input}:966:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:965:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L84"
+o{standard input}:965:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:964:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L83"
+o{standard input}:964:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:963:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L82"
+o{standard input}:963:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:960:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L81"
+o{standard input}:960:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:840:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L75"
+o{standard input}:840:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:839:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L74"
+o{standard input}:839:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:838:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L73"
+o{standard input}:838:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:787:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L68"
+o{standard input}:787:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:786:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L67"
+o{standard input}:786:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:785:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L66"
+o{standard input}:785:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:734:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L61"
+o{standard input}:734:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:733:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L60"
+o{standard input}:733:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:732:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L59"
+o{standard input}:732:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:731:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L58"
+o{standard input}:731:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:730:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L57"
+o{standard input}:730:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:729:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L56"
+o{standard input}:729:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+o{standard input}:728:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L55"
+o{standard input}:728:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L54"
+o{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:726:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L53"
+o{standard input}:726:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:725:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L52"
+o{standard input}:725:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:724:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L51"
+o{standard input}:724:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:719:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L50"
+o{standard input}:719:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:718:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L49"
+o{standard input}:718:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:717:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L48"
+o{standard input}:717:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:716:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L47"
+o{standard input}:716:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:715:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L46"
+o{standard input}:715:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:713:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L44"
+o{standard input}:713:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:712:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L43"
+o{standard input}:712:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:710:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L41"
+o{standard input}:710:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:709:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L40"
+o{standard input}:709:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:708:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L39"
+o{standard input}:708:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:707:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L38"
+o{standard input}:707:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:706:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L37"
+o{standard input}:706:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:705:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L36"
+o{standard input}:705:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:704:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L35"
+o{standard input}:704:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:703:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L34"
+o{standard input}:703:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:702:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L33"
+o{standard input}:702:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:701:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L32"
+o{standard input}:701:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:696:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L31"
+o{standard input}:696:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:695:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L30"
+o{standard input}:695:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L29"
+o{standard input}:694:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:692:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L27"
+o{standard input}:692:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:691:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L26"
+o{standard input}:691:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:689:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L24"
+o{standard input}:689:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:688:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L23"
+o{standard input}:688:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:687:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L22"
+o{standard input}:687:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:686:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L21"
+o{standard input}:686:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:685:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L20"
+o{standard input}:685:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:684:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L19"
+o{standard input}:684:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:683:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L18"
+o{standard input}:683:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:682:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L17"
+o{standard input}:682:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:681:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L16"
+o{standard input}:681:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:680:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L15"
+o{standard input}:680:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:675:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L14"
+o{standard input}:675:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:674:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L13"
+o{standard input}:674:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:673:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L12"
+o{standard input}:673:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:117:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L7"
+o{standard input}:117:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:116:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L6"
+o{standard input}:116:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:115:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L5"
+o{standard input}:115:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:114:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" minus "L4"
+o{standard input}:114:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:113:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"
+o{standard input}:113:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:112:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" minus "L2"
+o{standard input}:112:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+lSLF07#2@111"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m296514900#296514900#0(16575"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m: In function '-[MapKitPathOverlayExampleViewController mapView:viewForOverlay:]':/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m:128: error: expected identifier before '}' token{standard input}:966:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L85"{standard input}:966:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:965:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L84"{standard input}:965:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:964:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L83"{standard input}:964:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:963:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L82"{standard input}:963:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:960:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L81"{standard input}:960:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:840:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L75"{standard input}:840:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:839:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L74"{standard input}:839:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:838:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L73"{standard input}:838:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:787:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L68"{standard input}:787:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:786:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L67"{standard input}:786:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:785:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L66"{standard input}:785:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:734:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L61"{standard input}:734:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:733:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L60"{standard input}:733:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:732:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L59"{standard input}:732:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:731:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L58"{standard input}:731:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:730:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L57"{standard input}:730:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:729:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L56"{standard input}:729:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression{standard input}:728:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L55"{standard input}:728:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L54"{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:726:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L53"{standard input}:726:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:725:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L52"{standard input}:725:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:724:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L51"{standard input}:724:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:719:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L50"{standard input}:719:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:718:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L49"{standard input}:718:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:717:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L48"{standard input}:717:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:716:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L47"{standard input}:716:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:715:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L46"{standard input}:715:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:713:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L44"{standard input}:713:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:712:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L43"{standard input}:712:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:710:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L41"{standard input}:710:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:709:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L40"{standard input}:709:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:708:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L39"{standard input}:708:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:707:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L38"{standard input}:707:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:706:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L37"{standard input}:706:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:705:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L36"{standard input}:705:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:704:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L35"{standard input}:704:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:703:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L34"{standard input}:703:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:702:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L33"{standard input}:702:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:701:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L32"{standard input}:701:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:696:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L31"{standard input}:696:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:695:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L30"{standard input}:695:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L29"{standard input}:694:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:692:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L27"{standard input}:692:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:691:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L26"{standard input}:691:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:689:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L24"{standard input}:689:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:688:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L23"{standard input}:688:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:687:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L22"{standard input}:687:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:686:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L21"{standard input}:686:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:685:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L20"{standard input}:685:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:684:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L19"{standard input}:684:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:683:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L18"{standard input}:683:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:682:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L17"{standard input}:682:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:681:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L16"{standard input}:681:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:680:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L15"{standard input}:680:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:675:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L14"{standard input}:675:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:674:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L13"{standard input}:674:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:673:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L12"{standard input}:673:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:117:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L7"{standard input}:117:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:116:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L6"{standard input}:116:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:115:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L5"{standard input}:115:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:114:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" minus "L4"{standard input}:114:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:113:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"{standard input}:113:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:112:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" minus "L2"{standard input}:112:symbol: "L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._mapView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitPathOverlayExampleViewController._newAnnotation$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_231(4@36"Expected identifier before '}' token296514900#186#153#0(6@103"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m296514816#128#0#128#0#19"expected * before *0(0#0#103"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m8601586272#2338"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv7" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/Classes/MapKitPathOverlayExampleViewController.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExampleViewController.o"1#
+
+CCompileC build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/main.o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296514900.796795
+e296514900.874313
+r1
+xCompileC
+xbuild/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/main.o
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m296514900#296514900#0(0"0(0#0#61"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m8604510592#2262"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv7" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/main.m" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib"
+s296514897.504042
+e296514897.933496
+r1
+xCompileXIB
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296514897#296514897#0(0"0(0#0#69"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib8602513440#613"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/MainWindow.nib" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib"
+s296514897.504725
+e296514898.126610
+r1
+xCompileXIB
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib
+lSLF07#2@53"CompileXIB MapKitPathOverlayExampleViewController.xib296514897#296514898#0(0"0(0#0#97"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib8599365280#669"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/MapKitPathOverlayExampleViewController.nib" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExampleViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/MapKitPathOverlayExample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s296514897.462291
+e296514897.503954
+r1
+xCpResource
+xbuild/Debug-iphoneos/MapKitPathOverlayExample.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist296514897#296514897#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist3419159298929816064#533"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app"0#
+
+CCreateUniversalBinary "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/MapKitPathOverlayExample" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app.dSYM" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/MapKitPathOverlayExample"
+r0
+
+CLd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv6/MapKitPathOverlayExample" normal armv6
+r0
+
+CLd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/Objects-normal/armv7/MapKitPathOverlayExample" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/Info.plist" MapKitPathOverlayExample-Info.plist
+s296514897.465828
+e296514897.491817
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/Info.plist
+xMapKitPathOverlayExample-Info.plist
+lSLF07#2@43"Process MapKitPathOverlayExample-Info.plist296514897#296514897#0(0"0(0#0#90"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample-Info.plist8603159488#702"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapKitPathOverlayExample-Info.plist -genpkginfo "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/ResourceRules.plist" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/Info.plist"0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch.gch MapKitPathOverlayExample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296514898.126845
+e296514900.388039
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch.gch
+xMapKitPathOverlayExample_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile MapKitPathOverlayExample_Prefix.pch296514898#296514900#0(0"0(0#0#90"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch8604059552#2125"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv6" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch" -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gmnjcsojuholcddwciqgsobokxky/MapKitPathOverlayExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch.gch MapKitPathOverlayExample_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296514898.127763
+e296514900.567131
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch.gch
+xMapKitPathOverlayExample_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile MapKitPathOverlayExample_Prefix.pch296514898#296514900#0(0"0(0#0#90"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch8603877792#2125"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-generated-files.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-own-target-headers.hmap" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-all-target-headers.hmap" -iquote "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample-project-headers.hmap" "-F/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/include" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources/armv7" "-I/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/DerivedSources" -c "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/MapKitPathOverlayExample_Prefix.pch" -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitPathOverlayExample_Prefix-gohkocdgbutijeetrjtwzzpptqiv/MapKitPathOverlayExample_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/087B0383-DB8E-40A3-BBCB-DD78DB9AD4FC.mobileprovision" "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/embedded.mobileprovision"
+s296514900.986174
+e296514900.987575
+r1
+xProcessProductPackaging
+x/Users/cwiles/Library/MobileDevice/Provisioning Profiles/087B0383-DB8E-40A3-BBCB-DD78DB9AD4FC.mobileprovision
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/embedded.mobileprovision
+lSLF07#2@210"ProcessProductPackaging "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/087B0383-DB8E-40A3-BBCB-DD78DB9AD4FC.mobileprovision" build/Debug-iphoneos/MapKitPathOverlayExample.app/embedded.mobileprovision296514900#296514900#0(0"0(0#0#129"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/embedded.mobileprovision8603901216#477"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/087B0383-DB8E-40A3-BBCB-DD78DB9AD4FC.mobileprovision" -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample.xcent"
+s296514900.987637
+e296514901.008731
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample.xcent
+lSLF07#2@226"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample.xcent296514900#296514901#0(0"0(0#0#168"/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample.xcent8603442688#519"    cd "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/MapKitPathOverlayExample.build/Debug-iphoneos/MapKitPathOverlayExample.build/MapKitPathOverlayExample.xcent"0#
+
+CTouch "/Users/cwiles/iPhone Projects/MapKitPathOverlayExample/build/Debug-iphoneos/MapKitPathOverlayExample.app"
+r0
+
